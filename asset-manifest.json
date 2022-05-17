@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/dog/static/css/main.64a72038.css",
+    "main.js": "/github.io/dog/static/js/main.e088ac2e.js",
+    "static/js/787.34f4e120.chunk.js": "/github.io/dog/static/js/787.34f4e120.chunk.js",
+    "index.html": "/github.io/dog/index.html",
+    "main.64a72038.css.map": "/github.io/dog/static/css/main.64a72038.css.map",
+    "main.e088ac2e.js.map": "/github.io/dog/static/js/main.e088ac2e.js.map",
+    "787.34f4e120.chunk.js.map": "/github.io/dog/static/js/787.34f4e120.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64a72038.css",
+    "static/js/main.e088ac2e.js"
+  ]
+}
